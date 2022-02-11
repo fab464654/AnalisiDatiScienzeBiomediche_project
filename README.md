@@ -9,6 +9,8 @@ This repository contains:
 - "svm" and "rf" folders to save images containing all the metrics (confusion matrices, accuracy plots, EXAI bar charts, etc...)
 
 
-![This is an image](title.png)
+----------------------
+
+![Main page](title.png)
 
 
