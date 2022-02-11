@@ -7,3 +7,8 @@ This repository contains:
 - Heart disease dataset (processed.cleveland.data) downloaded from https://archive-beta.ics.uci.edu/ml/datasets/heart+disease
 - SVM and RF implementation to solve the binary classification problem
 - "svm" and "rf" folders to save images containing all the metrics (confusion matrices, accuracy plots, EXAI bar charts, etc...)
+
+
+![This is an image](title.png)
+
+
